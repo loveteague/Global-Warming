@@ -1,11 +1,13 @@
 h1 {
-  color: darksalmon
+  color: darksalmon;
 }
 
 h2 {
-  
+  color: darksalmon;
 }
-
+h3{
+  color:whitesmoke;
+}
 p {
   color: gray;
 }
